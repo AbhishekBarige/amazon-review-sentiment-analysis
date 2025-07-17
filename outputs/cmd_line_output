@@ -1,0 +1,15 @@
+                                      cleaned_text sentiment
+0  product far disappointed child love use like a...  positive
+1  great beginner experienced person bought gift ...  positive
+2  inexpensive tablet use learn step nabi thrille...  positive
+3  fire hd two week love tablet great value prime...  positive
+4  bought grand daughter come visit set user ente...  positive
+              precision    recall  f1-score   support
+
+    negative       1.00      0.01      0.01       157
+     neutral       0.25      0.00      0.01       278
+    positive       0.94      1.00      0.97      6491
+
+    accuracy                           0.94      6926
+   macro avg       0.73      0.34      0.33      6926
+weighted avg       0.91      0.94      0.91      6926
